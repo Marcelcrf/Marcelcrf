@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Marcel Louro
+# 👨🏻‍💻 Marcel Louro
 
 **`Analista de Dados`**
 
