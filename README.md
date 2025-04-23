@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👩🏻‍💻 Marcel Louro
 
-<!--
-**Marcelcrf/Marcelcrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Analista de Dados`**
 
-Here are some ideas to get you started:
+Me chamo Marcel Louro, tenho 19 anos e sou natural de Juiz de Fora-MG. Concluí o ensino médio no IFJF, com o curso técnico em metalurgia. Atualmente, estou cursando Análise de Dados pela EBAC. Sou fascinado por tecnologia e sua aplicabilidade no setor industrial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Linguagens e Tecnologias
+
+<img
+ align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    />
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  />
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
